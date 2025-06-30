@@ -4,7 +4,7 @@ As EV adoption increases across New York, there is a critical need to balance ch
 ## ✅ This dashboard addresses:
 1.**Which ZIP codes have the highest EV-to-charger ratios?**
 
-2.**What is the number of chargers in particular city?**
+2.**What is the number of stations in particular city?**
 
 3.**What is the number of registered vehicles in particular city?**
 
